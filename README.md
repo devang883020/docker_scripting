@@ -24,11 +24,6 @@ This script provides a comprehensive set of functions to manage Docker container
 
 ## Usage
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <your-repo-url>
-   cd <repo-directory>
-
 Make the script executable:
 
 chmod +x docker_management.sh
